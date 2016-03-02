@@ -1,0 +1,5 @@
+sirven para ooptimización.
+solucion mas cercana a la optima.
+
+-----------------------------------
+backtracking mˆn = brute force
